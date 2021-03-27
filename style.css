@@ -1,0 +1,33 @@
+
+.wrapper{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(192, 191, 191);
+    padding: 2%;
+    width: 600px;
+    height: 300px;
+}
+
+header {
+    text-align: center;
+    font-family: 'Chango', cursive;
+}
+
+.card-header {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.card-footer {
+    text-align: center;
+}
+
+input {
+    background-color: pink;
+    size: 3%;
+    padding: 3%;
+}

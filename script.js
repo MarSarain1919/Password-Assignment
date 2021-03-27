@@ -26,4 +26,4 @@ function generatePassword() {
   }
   return retVal;
 }
-alert(generatePassword());
+alert(generatePassword();
