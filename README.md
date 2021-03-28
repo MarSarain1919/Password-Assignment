@@ -14,4 +14,4 @@ GitHub Repository: https://github.com/MarSarain1919/Password-Assignment.git
 Live page: https://marsarain1919.github.io/Password-Assignment/
 
 Screenshot: 
-![alt text](screencapture-file-Users-katjasarain-Desktop-ucsd-bootcamp-files-HW-DEVELOP-JS-homework-Password-Assignment-index-html-2021-03-27-18_53_43.png "Screenshot of my page")
+![alt text](screencapture.png "Screenshot of my page")
