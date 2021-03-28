@@ -14,4 +14,4 @@ GitHub Repository: https://github.com/MarSarain1919/Password-Assignment.git
 Live page: https://marsarain1919.github.io/Password-Assignment/
 
 Screenshot: 
-![Screenshot]https://github.com/MarSarain1919/Password-Assignment/issues/1#issue-842642645 
+https://github.com/MarSarain1919/Password-Assignment/issues/1#issue-842642645 
