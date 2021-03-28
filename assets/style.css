@@ -1,23 +1,32 @@
-#content {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: rgb(192, 191, 191);
-    padding: 2%;
-    width: 600px;
-    height: 300px;
+
+:root {
+    --textColor: rgb(231, 124, 142);
+    --containerBack: rgb(192, 191, 191);
+}
+
+body {
+    background-color: lavender;
 }
 
 header {
     text-align: center;
     font-family: 'Chango', cursive;
+    margin-top: 5%;
+    color: var(--textColor);
 }
 
+
 #content {
-    text-align: center;
+    position: fixed;
     top: 50%;
     left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: var(--containerBack);
+    padding: 2%;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    color: var(--textColor);
 }
 
 #generate {
