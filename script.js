@@ -123,15 +123,5 @@ function UserInput(ps) {
 
 }
 
-var copy = document.querySelector("#copy");
-copy.addEventListener("click", function () {
-    copyPassword();
-});
-
-function copyPassword() {
-    document.getElementById("password").select();
-    document.execCommand("Copy");
-    alert("Password copied to clipboard!");
-}
 
 // source of demo video: https://youtu.be/9sT03jEwcaw
